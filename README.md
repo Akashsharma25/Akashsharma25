@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">A passionate frontend developer from India</h1>
+<h3 align="center">Passionate Front-End Developer | HTML, CSS, JavaScript, React.js | Creating visually stunning and responsive web experiences | Strong foundation in UI/UX design principles | Enthusiastic about innovation and staying current with evolving web technologies | Collaborative team player committed to delivering high-quality solutions. Explore my code journey on GitHub!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsharma25&label=Profile%20views&color=0e75b6&style=flat" alt="akashsharma25" /> </p>
 
